@@ -5,7 +5,7 @@
     "height": 300,
     "title": "Malaysia Communicable Disease Counts by Year",
     "data": {
-      "url": "disease_data.csv"
+      "url": "https://github.com/idarrshan/FIT3179/blob/main/week10_hw/disease_data.csv"
     },
     "params": [
       {
